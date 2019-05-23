@@ -1,0 +1,8 @@
+<robot name="1410_URDF" file="1410_dae8_rounded.dae">
+  <Manipulator name="abb_1410">
+    <base>base_link</base>
+    <effector>link_6</effector>
+    <direction>1 0 0</direction>
+    <translation>0 0 0</translation>
+  </Manipulator>
+</robot>
